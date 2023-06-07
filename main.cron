@@ -1,0 +1,1 @@
+15 02 * * * /home/de13an/stck/project/main.py &> test.txt
